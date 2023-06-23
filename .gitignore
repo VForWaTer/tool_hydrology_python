@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Discharge Series 
+\in\discharge
 .csv
